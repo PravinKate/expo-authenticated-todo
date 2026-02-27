@@ -102,5 +102,6 @@ Device-level authentication supports both biometric verification and device cred
 
 **Screenshot**: 
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f8ef5724-8431-412e-85be-4567c8a99d58" />
+![UI](https://github.com/user-attachments/assets/44f8f7e6-61e0-47c1-8681-ea5d41c3c35a)
+
 
